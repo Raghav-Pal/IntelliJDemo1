@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="5754" started-at="2021-08-18T06:11:15 UTC" finished-at="2021-08-18T06:11:20 UTC">
+    <groups>
+    </groups>
+    <test name="RESTassuredProjet1" duration-ms="5754" started-at="2021-08-18T06:11:15 UTC" finished-at="2021-08-18T06:11:20 UTC">
+      <class name="APIDemo1">
+        <test-method status="PASS" signature="delete_demo1()[pri:0, instance:APIDemo1@475530b9]" name="delete_demo1" duration-ms="3753" started-at="2021-08-18T06:11:15 UTC" finished-at="2021-08-18T06:11:18 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_demo1 -->
+        <test-method status="PASS" signature="get_demo1()[pri:0, instance:APIDemo1@475530b9]" name="get_demo1" duration-ms="1047" started-at="2021-08-18T06:11:18 UTC" finished-at="2021-08-18T06:11:19 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_demo1 -->
+        <test-method status="PASS" signature="patch_demo1()[pri:0, instance:APIDemo1@475530b9]" name="patch_demo1" duration-ms="328" started-at="2021-08-18T06:11:19 UTC" finished-at="2021-08-18T06:11:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch_demo1 -->
+        <test-method status="PASS" signature="post_demo1()[pri:0, instance:APIDemo1@475530b9]" name="post_demo1" duration-ms="282" started-at="2021-08-18T06:11:20 UTC" finished-at="2021-08-18T06:11:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_demo1 -->
+        <test-method status="PASS" signature="put_demo1()[pri:0, instance:APIDemo1@475530b9]" name="put_demo1" duration-ms="265" started-at="2021-08-18T06:11:20 UTC" finished-at="2021-08-18T06:11:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put_demo1 -->
+      </class> <!-- APIDemo1 -->
+    </test> <!-- RESTassuredProjet1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
